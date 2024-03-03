@@ -1,3 +1,5 @@
+# not finished yet for bitnet-io Work in progress
+
 # stacks-gen
 
 Generate all the keys needed for use with Stacks 2.0 Mining and Stacking
